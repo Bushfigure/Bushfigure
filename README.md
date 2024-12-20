@@ -4,7 +4,7 @@
 Leveraging data-driven insights to solve real-world problems and developing innovative solutions that make a difference.  
 
 ## 💬 Ask me about 
-**Data Analysis and Data Science**
+ Data Science | Cloud Solutions |
 
 ## 🔵 How to reach me
  **aransiola64@gmail.com**
